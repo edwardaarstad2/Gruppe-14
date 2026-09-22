@@ -13,18 +13,41 @@
 
 
 
-## Del 2: []
-*(Skrives av: )*
+## Del 2: [Utforming av det første møtet]
+*(Skrives av: Ema)*
 
 
 
-## Del 3: [Tema]
-*(Skrives av: )*
+## Del 3: [Rammeverk for relasjonelle kontrakter]
+*(Skrives av: Edward)*
 
 
 
-## Konklusjon
-*(Skrives av: )*
+## Del 4: [Proaktive mekanismer for konflikthåndtering]
+*(Skrives av: Ema)*
+
+
+
+## Del 5: [Håndtering av tidspress og planleggingsfeilslutningen]
+*(Skrives av: Fredrik)*
+
+
+## Del 6: [Sikre god kommunikasjon]
+*(Skrives av: Fredrik)*
+
+
+
+# Egenvurdering av gruppekontrakt og samarbeid
+
+## Hensiktsmessighet og etterlevelse 
+
+
+
+## Svakheter og forbedringspotensial
+
+
+
+## Lærdom og råd for framtidig prosjektarbeid
 
 
 
