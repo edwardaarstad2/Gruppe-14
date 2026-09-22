@@ -47,7 +47,7 @@ Det er særlig viktig å bruke et språk som alle forstår. Fagpersoner bør for
 Erling bør også oppmuntre til aktiv lytting. Når det tas opp en viktig problemstilling, kan han be deltakerne oppsummere hva de oppfatter som beslutningen eller problemet. Dette kan avdekke misforståelser før de får konsekvenser.
 Kommunikasjonen bør dessuten tilpasses ulike interessenter. Prosjektgruppen trenger detaljert arbeidsinformasjon, mens prosjekteier og politisk ledelse kan ha behov for kortere rapporter om fremdrift, økonomi, risiko og beslutninger. Innbyggerrepresentantene trenger på sin side mulighet til å gi systematisk brukerfeedback.
 Til slutt bør Erling etablere en kultur hvor det er trygt å stille spørsmål og si fra om problemer. Dersom medarbeidere holder tilbake informasjon fordi de frykter negative reaksjoner, kan små problemer utvikle seg til store prosjektutfordringer. Åpenhet, tydelighet, regelmessighet og aktiv lytting bør derfor være sentrale prinsipper for kommunikasjonen gjennom hele prosjektet. 
-*(Skrives av: Fredrik)*
+*(Skrives av: Fredrik)* 
 
 
 
