@@ -4,7 +4,9 @@
 **Gruppemedlemmer:** Edward, [Navn 2], [Navn 3], [Navn 4]
 
 ## Innledning
-*(Skrives av: )*
+*( )*
+Ema
+
 
 ## Del 1
 *(Skrives av: )*
@@ -19,3 +21,5 @@
 *(Skrives av: )*
 
 ## Referanser
+
+test35 
