@@ -23,6 +23,8 @@ Samtidig må Erling ta høyde for at en så sammensatt gruppe, med kommuneansatt
 
 ## Del 3: [Rammeverk for relasjonelle kontrakter]
 *(Skrives av: Edward)*
+Et typisk prosjektmandat dekker jerntriangelet godt. Frist, budsjett og kvalitetskrav er som regel klart definert før prosjektet starter. Det som sjelden er avklart er hvordan Erling og prosjekteieren, kommunen, faktisk skal samarbeide underveis, og det er her den relasjonelle siden av mandatet mangler. 
+To konkrete problemer oppstår av dette. Fremdriften på delmålene blir vanskelig å vurdere felles, fordi ingen har avtalt hva som teller som å ligge i rute eller hva som skjer om et delmål glipper. Enda viktigere blir informasjonsflyten uklar når ingen har avtalt hvor ofte og hvor tidlig Erling skal si ifra om problemer. 
 
 
 
