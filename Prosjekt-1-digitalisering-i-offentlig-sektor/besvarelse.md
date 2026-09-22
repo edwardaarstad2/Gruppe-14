@@ -59,8 +59,8 @@ Til slutt bør Erling etablere en kultur hvor det er trygt å stille spørsmål 
 # Egenvurdering av gruppekontrakt og samarbeid
 
 ## Hensiktsmessighet og etterlevelse 
-
-
+Vi har møttes hver uke og jobbet sammen, og så langt har vi ikke hatt problemer med hvem som gjør hva eller med kommunikasjonen. Siden hver del har én eier, har det vært lett å vite hvem som har ansvaret.
+Samtidig har vi ikke tenkt så mye på reglene i kontrakten. Vi har fulgt dem uten å tenke over det, fordi det er slik vi jobber uansett. Hvis noen lurer på noe, spør vi hverandre, og alle sier ifra i god tid hvis de blir sene til et møte. Kontrakten har derfor mest skrevet ned vaner vi allerede hadde.
 
 ## Svakheter og forbedringspotensial
 
