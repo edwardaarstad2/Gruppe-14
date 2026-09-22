@@ -40,6 +40,13 @@ Erling bør derfor ha en «rullerende plan»: Overordnet retning og milepæler e
 
 
 ## Del 6: [Sikre god kommunikasjon]
+God kommunikasjon er en forutsetning for at det forskjellige prosjektteamene skal fungere. Teammedlemmene representerer ulike fagområder og kan derfor ha forskjellige begreper, prioriteringer og forventninger. IT-avdelingen kan for eksempel være opptatt av teknisk integrasjon, mens brukerrepresentantene først og fremst vurderer løsningen ut fra innbyggernes perspektiv. Erling må derfor etablere strukturer som gjør det enkelt å dele informasjon og oppdage misforståelser.
+Det første tiltaket bør være å definere hvilke kommunikasjonskanaler som skal brukes til ulike formål. Prosjektgruppen kan eksempelvis ha ett digitalt arbeidsområde for dokumentasjon, én kanal for løpende kommunikasjon og faste prosjektmøter for beslutninger. Viktige beslutninger bør alltid dokumenteres slik at alle har tilgang til samme informasjon.
+Møtene bør ha en tydelig struktur. En fast agenda kan inneholde status, avvik, kommende aktiviteter, beslutninger og eventuelle problemer. Samtidig bør det settes av tid til diskusjon. Erling bør unngå at møtene bare blir rapportering fra prosjektleder til teamet. Kommunikasjon må også gå motsatt vei.
+Det er særlig viktig å bruke et språk som alle forstår. Fagpersoner bør forklare tekniske eller administrative begreper når de brukes. En enkel regel kan være at man ikke forventer at andre forstår et faguttrykk bare fordi det er vanlig i ens egen avdeling. Dette reduserer risikoen for misforståelser mellom tekniske og ikke-tekniske deltakere.
+Erling bør også oppmuntre til aktiv lytting. Når det tas opp en viktig problemstilling, kan han be deltakerne oppsummere hva de oppfatter som beslutningen eller problemet. Dette kan avdekke misforståelser før de får konsekvenser.
+Kommunikasjonen bør dessuten tilpasses ulike interessenter. Prosjektgruppen trenger detaljert arbeidsinformasjon, mens prosjekteier og politisk ledelse kan ha behov for kortere rapporter om fremdrift, økonomi, risiko og beslutninger. Innbyggerrepresentantene trenger på sin side mulighet til å gi systematisk brukerfeedback.
+Til slutt bør Erling etablere en kultur hvor det er trygt å stille spørsmål og si fra om problemer. Dersom medarbeidere holder tilbake informasjon fordi de frykter negative reaksjoner, kan små problemer utvikle seg til store prosjektutfordringer. Åpenhet, tydelighet, regelmessighet og aktiv lytting bør derfor være sentrale prinsipper for kommunikasjonen gjennom hele prosjektet.
 *(Skrives av: Fredrik)*
 
 
