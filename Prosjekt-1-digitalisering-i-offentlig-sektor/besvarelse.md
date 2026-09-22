@@ -46,7 +46,7 @@ Møtene bør ha en tydelig struktur. En fast agenda kan inneholde status, avvik,
 Det er særlig viktig å bruke et språk som alle forstår. Fagpersoner bør forklare tekniske eller administrative begreper når de brukes. En enkel regel kan være at man ikke forventer at andre forstår et faguttrykk bare fordi det er vanlig i ens egen avdeling. Dette reduserer risikoen for misforståelser mellom tekniske og ikke-tekniske deltakere.
 Erling bør også oppmuntre til aktiv lytting. Når det tas opp en viktig problemstilling, kan han be deltakerne oppsummere hva de oppfatter som beslutningen eller problemet. Dette kan avdekke misforståelser før de får konsekvenser.
 Kommunikasjonen bør dessuten tilpasses ulike interessenter. Prosjektgruppen trenger detaljert arbeidsinformasjon, mens prosjekteier og politisk ledelse kan ha behov for kortere rapporter om fremdrift, økonomi, risiko og beslutninger. Innbyggerrepresentantene trenger på sin side mulighet til å gi systematisk brukerfeedback.
-Til slutt bør Erling etablere en kultur hvor det er trygt å stille spørsmål og si fra om problemer. Dersom medarbeidere holder tilbake informasjon fordi de frykter negative reaksjoner, kan små problemer utvikle seg til store prosjektutfordringer. Åpenhet, tydelighet, regelmessighet og aktiv lytting bør derfor være sentrale prinsipper for kommunikasjonen gjennom hele prosjektet.
+Til slutt bør Erling etablere en kultur hvor det er trygt å stille spørsmål og si fra om problemer. Dersom medarbeidere holder tilbake informasjon fordi de frykter negative reaksjoner, kan små problemer utvikle seg til store prosjektutfordringer. Åpenhet, tydelighet, regelmessighet og aktiv lytting bør derfor være sentrale prinsipper for kommunikasjonen gjennom hele prosjektet. 
 *(Skrives av: Fredrik)*
 
 
