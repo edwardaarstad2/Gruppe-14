@@ -1,3 +1,9 @@
+# Gruppe 14 – IS-118
+
+Repository for gruppeoppgaven i IS-118.
+
+## Cheat sheet – Markdown og Git
+
 ## Overskrift
 ### Underoverskrift
 
