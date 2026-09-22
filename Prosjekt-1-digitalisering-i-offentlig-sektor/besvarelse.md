@@ -69,6 +69,8 @@ Noen av punktene i kontrakten er også litt vage, for eksempel at alle skal bidr
 
 
 ## Lærdom og råd for framtidig prosjektarbeid
+Vårt viktigste råd er å skrive kontrakten for de gangene noe går galt, ikke bare for når alt går bra. Det er det samme vi anbefaler Erling i punkt 3: en avtale som bare handler om frister og leveranser, sier lite om hvordan man skal jobbe sammen når planen ikke holder. Neste gang ville vi satt egne frister noen dager før den ekte fristen, og tatt en kort gjennomgang av kontrakten halvveis.
+Tre ting bør alltid stå tydelig i kontrakten. Det første er fravær: hvor tidlig man må si ifra, og hvem som tar over arbeidet. Det andre er ambisjonsnivå: hvilken karakter vi sikter mot, så ingen blir skuffet over hvor mye de andre jobber. Det tredje er hva som skjer hvis noen ikke holder en frist, for eksempel at vi tar det opp på neste møte, og at vi kontakter faglærer hvis det skjer flere ganger.
 
 
 
