@@ -63,6 +63,8 @@ Vi har møttes hver uke og jobbet sammen, og så langt har vi ikke hatt probleme
 Samtidig har vi ikke tenkt så mye på reglene i kontrakten. Vi har fulgt dem uten å tenke over det, fordi det er slik vi jobber uansett. Hvis noen lurer på noe, spør vi hverandre, og alle sier ifra i god tid hvis de blir sene til et møte. Kontrakten har derfor mest skrevet ned vaner vi allerede hadde.
 
 ## Svakheter og forbedringspotensial
+Fordi samarbeidet har gått fint, har kontrakten ikke blitt testet. Det er en svakhet, fordi vi ikke vet om den fungerer når noe går galt. Den sier for eksempel ingenting om hva vi gjør når vi har mye i andre fag samtidig, eller hvis én del av oppgaven havner bak de andre. Når hver person har sin del, er det lett at noen kommer lenger enn andre uten at noen følger med på helheten.
+Noen av punktene i kontrakten er også litt vage, for eksempel at alle skal bidra og komme forberedt. Det har ikke skapt krangel, men vi har aldri snakket om hva «å bidra» egentlig betyr. Hvis én av oss hadde begynt å gjøre mindre, ville det vært vanskelig å ta det opp. Da kunne det lett blitt personlig, i stedet for at vi bare viste til det vi hadde avtalt.
 
 
 
