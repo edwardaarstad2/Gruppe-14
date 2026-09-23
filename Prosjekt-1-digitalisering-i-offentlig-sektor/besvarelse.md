@@ -23,8 +23,13 @@ Samtidig må Erling ta høyde for at en så sammensatt gruppe, med kommuneansatt
 
 ## Del 3: [Rammeverk for relasjonelle kontrakter]
 *(Skrives av: Edward)*
-Et typisk prosjektmandat dekker jerntriangelet godt. Frist, budsjett og kvalitetskrav er som regel klart definert før prosjektet starter. Det som sjelden er avklart er hvordan Erling og prosjekteieren, kommunen, faktisk skal samarbeide underveis, og det er her den relasjonelle siden av mandatet mangler. 
-To konkrete problemer oppstår av dette. Fremdriften på delmålene blir vanskelig å vurdere felles, fordi ingen har avtalt hva som teller som å ligge i rute eller hva som skjer om et delmål glipper. Enda viktigere blir informasjonsflyten uklar når ingen har avtalt hvor ofte og hvor tidlig Erling skal si ifra om problemer. 
+Et typisk prosjektmandat dekker jerntriangelet godt. Frist, budsjett og kvalitetskrav er som regel klart definert før prosjektet starter. Det som sjelden er avklart er hvordan Erling og prosjekteieren, kommunen, faktisk skal samarbeide underveis, og det er her den relasjonelle siden av mandatet mangler.
+
+To konkrete problemer oppstår av dette. Fremdriften på delmålene blir vanskelig å vurdere felles, fordi ingen har avtalt hva som teller som å ligge i rute eller hva som skjer om et delmål glipper. Enda viktigere blir informasjonsflyten uklar når ingen har avtalt hvor ofte og hvor tidlig Erling skal si ifra om problemer.
+
+En løsning kan være at Erling og kommunen lager en egen relasjonell avtale i tillegg til det vanlige mandatet. Avtalen bør si noe om hvor ofte og i hvilket format Erling rapporterer til kommunen, for eksempel faste statusmøter knyttet til delmålene i prosjektet. Den bør også avklare hvor mye Erling kan bestemme selv innenfor budsjettet på 8 millioner kroner, slik at han vet hva han kan avgjøre alene og hva som må løftes videre til kommunen. Avtalen bør i tillegg inneholde en tydelig norm om at problemer meldes tidlig, gjerne før Erling har en ferdig løsning klar, i stedet for at de holdes tilbake til de er løst eller blitt alvorlige. Til slutt bør Erling og kommunen bli enige om hvordan uenighet mellom dem skal håndteres, slik at det ikke bare blir opp til hvem som har mest makt i øyeblikket.
+
+Dette handler ikke om unødvendig byråkrati. Poenget med en relasjonell avtale er at Erling og kommunen kan tilpasse seg hverandre gjennom hele prosjektet, i stedet for å prøve å forutse alt som kan skje på forhånd. Dette er spesielt nyttig i dette prosjektet, fordi Erlings mandat krysser grensen mellom kommunal administrasjon og politisk ledelse. På denne typen grenser er det lett at begge parter antar ulike ting om hvem som bestemmer hva, og om hvor mye de skal fortelle hverandre underveis. Ved å avklare dette tidlig unngår Erling og kommunen at slike ulike antakelser først møtes når noe faktisk har gått galt.
 
 
 
