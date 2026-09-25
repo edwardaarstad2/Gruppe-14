@@ -7,9 +7,37 @@
 ---
 
 ## Del 1: Strategi for rekruttering og teamsammensetning
-Når Erling, prosjektlederen, skal sette sammen prosjektgruppen må han balansere to hensyn som lett trekker i hver sin retning. Gruppen trenger funksjonelt mangfold. Den må dekke produksjon (IT avdelingen og designeren), administrasjon (økonom), entreprenørskap (nytenkning utenfra som politisk rådgiver og brukerrepresentantene) og integrasjon (prosjektlederen). Samtidig trenger gruppen nok felles grunn til at tillit kan etableres raskt, ettersom at dette er et tidsavgrenset prosjekt på 15 måneder uten tid til at tilliten kan vokse gradvis slik den ville gjort i fast avdelinger. 
-Mangel på integrasjonsfunksjonen er særlig risikabelt her. IT avdelingen, designeren og sikkerhetseksperten vil naturlig trekke ulike retninger. IT vil ha noe som lar seg bygge innenfor tid og budsjett, designeren vil ha en løsning innbyggerne faktisk vil bruke, og sikkerhetseksperten vil ha noe som ikke lekker data eller lar seg utnytte. Dette kalles gjerne *sakskonflikt*, altså uenighet om selve løsningen og ikke personlig friksjon, og det er ofte sunt fordi det hindrer at gruppen bygger feil ting. Problemet oppstår hvis ingen har ansvar for å veie disse hensynene mot hverandre. Den som skal samle trådene bør derfor ikke være IT, designeren eller sikkerhetseksperten selv, ettersom at alle tre har egeninteresse i utfallet. Erling selv, eller en egen koordinerende rolle bør av den grunn ta dette ansvaret. 
-Samtidig må Erling ta høyde for at en så sammensatt gruppe, med kommuneansatte, en politiker, eksterne konsulenter og frivillige brukerrepresentanter, ikke har tid til å bygge tillit på tradisjonelt vis. I slike midlertidige team oppstår i stedet såkalt «*swift trust*», altså en rask og foreløpig tillit basert på roller og førsteinntrykk fremfor lang erfaring med hverandre. Jo mer ulik gruppen er, desto større er risikoen for at denne tilliten ikke etablerer seg fort nok til at gruppen tør å ta beslutninger sammen tidlig. Et konkret grep er å bevisst rekruttere en eller to «brobryggere», altså personer som har noe til felles med flere av undergruppene, for eksempel en IT ansatt som også er aktiv i et lokalt innbyggerlag. Slik kan tillit bevege seg på tvers av skillene mellom administrasjon, politikk, eksterne og frivillige. 
+Når Erling, prosjektlederen, skal sette sammen prosjektgruppen må han balansere to
+hensyn som lett trekker i hver sin retning. Gruppen trenger funksjonelt mangfold. Den
+må dekke produksjon (IT-avdelingen og UX/UI-designeren), administrasjon (plan- og
+byggesaksavdelingen), entreprenørskap (nytenkning utenfra som politisk rådgiver,
+kulturavdelingen og brukerrepresentantene) og integrasjon (prosjektlederen). Samtidig
+trenger gruppen nok felles grunn til at tillit kan etableres raskt, ettersom dette er et
+tidsavgrenset prosjekt på 15 måneder uten tid til at tilliten kan vokse gradvis slik den
+ville gjort i faste avdelinger. Salas, Cannon-Bowers og Blickensderfer (1993, s. 92) peker
+nettopp på medlemshomogenitet som en av teamkarakteristikkene som påvirker hvordan
+et team presterer, og det er denne avveiningen mellom likhet og mangfold Erling må ta
+stilling til allerede i bemanningsfasen.
+
+Mangel på integrasjonsfunksjonen er særlig risikabelt her. IT-avdelingen, designeren og
+sikkerhetseksperten vil naturlig trekke i ulike retninger. IT vil ha noe som lar seg bygge
+innenfor tid og budsjett, designeren vil ha en løsning innbyggerne faktisk vil bruke, og
+sikkerhetseksperten vil ha noe som ikke lekker data eller lar seg utnytte. Dette kalles
+gjerne *sakskonflikt*, altså uenighet om selve løsningen og ikke personlig friksjon, og det
+er ofte sunt fordi det hindrer at gruppen bygger feil ting. Problemet oppstår hvis ingen har
+ansvar for å veie disse hensynene mot hverandre. Salas, Sims og Burke (2005, s. 555)
+samler forskningen på teamarbeid i fem kjernekomponenter, der *team leadership* er den
+første. De definerer denne som evnen til å koordinere de andres arbeid, vurdere teamets
+innsats, fordele oppgaver og ikke minst «clarify team member roles» (2005, s. 560).
+Nettopp denne rolleavklaringen er det ingen av fagspesialistene kan stå for, ettersom alle
+tre har egeninteresse i utfallet. Erling selv, eller en egen koordinerende rolle, bør derfor ta dette ansvaret. En beslektet komponent er *team orientation*, altså at medlemmene lar
+teamets mål gå foran sine egne (Salas et al., 2005, s. 561). Det er denne orienteringen Erling må bygge hos deltakere som til daglig svarer til hver sin avdeling.
+
+Samtidig må Erling ta høyde for at en så sammensatt gruppe, med kommuneansatte, en
+politiker, eksterne konsulenter og frivillige brukerrepresentanter, ikke har tid til å bygge
+tillit på tradisjonelt vis. Tillit er ikke bare et hyggelig tillegg: Salas et al. (2005, s. 565) regner gjensidig tillit som en av tre koordineringsmekanismer teamet er avhengig av, fordi medlemmene må stole nok på hverandre til å dele informasjon fritt. Jo mer ulik gruppen er, desto større er risikoen for at denne tilliten ikke etablerer seg fort nok til at gruppen tør å ta beslutninger sammen tidlig. Et konkret grep er å bevisst rekruttere en eller to
+«brobyggere», altså personer som har noe til felles med flere av undergruppene, for eksempel en IT-ansatt som også er aktiv i et lokalt innbyggerlag. Slik kan tillit bevege seg
+på tvers av skillene mellom administrasjon, politikk, eksterne og frivillige. 
 
 
 
