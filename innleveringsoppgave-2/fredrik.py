@@ -100,3 +100,4 @@ else:
     print("Prosjektet fortsetter, men trenger oppfølging.")
 
 print("\nTakk for at du spilte prosjektleder Erling!")
+
